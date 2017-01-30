@@ -1,0 +1,3 @@
+# ubuntu-meta
+Ubuntu metapackages (ubuntu-desktop, ubuntu-standard, etc) cleaned from useless software, like checkbox-gui
+Can be used on any Ubuntu-based operating system, like Baltix GNU/Linux (http://launchpad.net/baltix)
